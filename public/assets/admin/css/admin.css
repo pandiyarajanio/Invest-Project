@@ -1,0 +1,82 @@
+@media (min-width: 992px) {
+    .col-lg-6 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        /* max-width: 50%; */
+        margin-left: 27%;
+        margin-top: -76px;
+    }
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.buttoncolour{
+    background-color: #59b2ff !important;
+    border: none;
+    color: #fff;
+    font-weight: 700;
+}
+
+@media (min-width: 1024px) {
+    .page-title .breadcrumb-title {
+        font-size: 38px;
+        margin-top: 41px;
+        font-weight: 800;
+    }
+}
+
+.bgColour{
+    background-color: #59b2ff !important;
+}
+
+.Sectionheight{
+   margin-top: 30px !important;
+}
+
+.logoSize{
+    margin-left: 130%;
+}
+.mediascreensize{
+    margin-top: 81px;
+}
+
+.activation{
+    margin-top: 6px;
+    margin-left: 20%;
+    height: 39px;
+    width: 111px;
+    background: rgb(54, 238, 54);
+    border: none;
+    color: #fff;
+    /* font-weight: 800; */
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.delete{
+    margin-top: 6px;
+    margin-left: 20%;
+    height: 39px;
+    width: 111px;
+    background: rgb(245, 58, 58);
+    border: none;
+    color: #fff;
+    /* font-weight: 800; */
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.otherbg{
+    background-color: #ffffff !important;
+}
+
+.textColour{
+    color: #fff;
+    font-weight: 700;
+}
+
+.centerimagecode{
+    margin-left: 132%;
+}
